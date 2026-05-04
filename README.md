@@ -1,6 +1,6 @@
 # Project-Management-Compliance-Coursework2-Report
 
-##  Overview
+## 🔍 Overview
 This project presents the design and development of a **Smart Home Estate** integrating IoT-based technologies, automation, and cybersecurity principles. It was developed as part of a university coursework focusing on **project management, compliance, and secure system design**.
 
 The estate includes multiple housing types, each tailored to different user needs, with a strong emphasis on **energy efficiency, safety, and intelligent automation**.
@@ -81,7 +81,7 @@ This project considers key cybersecurity principles, including:
 
 ---
 
-##  Technologies & Concepts Used
+## 🛠️Technologies & Concepts Used
 - Internet of Things (IoT)  
 - Smart Home Automation  
 - AI-based Monitoring Systems  
@@ -99,4 +99,5 @@ The project demonstrates how smart technologies can be applied to create:
 ---
 
 ##  Author
-Zainab Arslan Dar; Developed as part of university group coursework.  
+**Zainab Arslan Dar**
+Developed as part of university group coursework.  
